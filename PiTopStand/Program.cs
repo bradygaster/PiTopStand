@@ -8,9 +8,9 @@ var greenLed = plate.GetOrCreateLed(DigitalPort.D0);
 var blueLed = plate.GetOrCreateLed(DigitalPort.D1);
 var redLed = plate.GetOrCreateLed(DigitalPort.D2);
 
-greenLed.On();
-blueLed.On();
-redLed.On();
+greenLed.Toggle();
+blueLed.Toggle();
+redLed.Toggle();
 
 Console.WriteLine("Hit enter to exit");
 Console.ReadLine();
