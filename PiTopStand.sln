@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32513.93
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiTopStand", "PiTopStand\PiTopStand.csproj", "{97128933-DF4B-4D18-8F1E-61E3B7EE8866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97128933-DF4B-4D18-8F1E-61E3B7EE8866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97128933-DF4B-4D18-8F1E-61E3B7EE8866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97128933-DF4B-4D18-8F1E-61E3B7EE8866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97128933-DF4B-4D18-8F1E-61E3B7EE8866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BB3CB63-E66F-42F5-8D1C-A24E748AF319}
+	EndGlobalSection
+EndGlobal
